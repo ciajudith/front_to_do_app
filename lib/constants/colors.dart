@@ -1,4 +1,5 @@
 import 'package:flutter/animation.dart';
+import 'package:flutter/material.dart';
 
 class AppColors {
   static const violetColor = Color(0xFFE9AFFC);
@@ -8,4 +9,5 @@ class AppColors {
   static const greenColor = Color(0xFF5CD669);
   static const yellowColor = Color(0xFFF6BB54);
   static const whiteColor = Color(0xFFFFFFFF);
+  static const greyColor = Colors.grey;
 }
